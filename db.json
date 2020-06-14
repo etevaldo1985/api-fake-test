@@ -75,10 +75,7 @@
       "nome": "Bloodshot3",
       "imagem": "bloodshot.jpg"
     }
- ],
-  "posts": [
-   { "id": 1, "title": "json-server", "author": "typicode" }
-  ]
+ ]
 }
 
 
