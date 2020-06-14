@@ -1,77 +1,77 @@
 {
   "movies": [
     {
-      "user_id": 1,
+      "userId": 1,
       "nome": "Bloodshot",
       "imagem": "bloodshot.jpg"
     },
     {
-      "user_id": 2,
+      "userId": 2,
       "nome": "Not Time To Die",
       "imagem": "007.jpg"
     },
     {
-      "user_id": 3,
+      "userId": 3,
       "nome": "Gretel",
       "imagem": "gretel.jpg"
     },
     {
-      "user_id": 4,
+      "userId": 4,
       "nome": "Avengers",
       "imagem": "avengers.jpg"
     },
     {
-      "user_id": 5,
+      "userId": 5,
       "nome": "Bloodshot3",
       "imagem": "bloodshot.jpg"
     },
     {
-      "user_id": 6,
+      "userId": 6,
       "nome": "Bloodshot",
       "imagem": "bloodshot.jpg"
     },
     {
-      "user_id": 7,
+      "userId": 7,
       "nome": "Not Time To Die",
       "imagem": "007.jpg"
     },
     {
-      "user_id": 8,
+      "userId": 8,
       "nome": "Gretel",
       "imagem": "gretel.jpg"
     },
     {
-      "user_id": 9,
+      "userId": 9,
       "nome": "Avengers",
       "imagem": "avengers.jpg"
     },
     {
-      "user_id": 10,
+      "userId": 10,
       "nome": "Bloodshot3",
       "imagem": "bloodshot.jpg"
     },
     {
-      "user_id": 11,
+      "userId": 11,
       "nome": "Bloodshot",
       "imagem": "bloodshot.jpg"
     },
     {
-      "user_id": 12,
+      "userId": 12,
       "nome": "Not Time To Die",
       "imagem": "007.jpg"
     },
     {
-      "user_id": 13,
+      "userId": 13,
       "nome": "Gretel",
       "imagem": "gretel.jpg"
     },
     {
-      "user_id": 14,
+      "userId": 14,
       "nome": "Avengers",
       "imagem": "avengers.jpg"
     },
     {
-      "user_id": 15,
+      "userId": 15,
       "nome": "Bloodshot3",
       "imagem": "bloodshot.jpg"
     }
