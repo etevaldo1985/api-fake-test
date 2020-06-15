@@ -75,7 +75,15 @@
       "nome": "Bloodshot3",
       "imagem": "bloodshot.jpg"
     }
- ]
+ ],
+  "Contact":[{
+  "name": "Etevaldo",
+  "email": "etevaldo@mail"
+  "message": "Teste de envio de mensagem"
+    
+  
+  }
+  ]
 }
 
 
