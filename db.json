@@ -89,21 +89,21 @@
       "name": "clothing 13",
       "value": 321,
       "active": true,
-      "image": "dress14"
+      "image": "dress13"
     },
     {
       "id": 14,
       "name": "clothing 14",
       "value": 456,
       "active": true,
-      "image": "dress15"
+      "image": "dress14"
     },
     {
       "id": 15,
       "name": "clothing 15",
       "value": 567,
       "active": true,
-      "image": "dress16"
+      "image": "dress15"
     }
  ],
 
